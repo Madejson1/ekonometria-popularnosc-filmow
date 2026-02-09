@@ -1,5 +1,6 @@
 # Treat notebooks as Python
 *.ipynb linguist-language=Python
 
+
 # Ignore generated outputs
 *.pdf linguist-generated=true
